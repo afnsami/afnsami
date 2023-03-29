@@ -1,6 +1,6 @@
 <samp>
  <h2>
-  hey, i am anas.
+  hey, myself anas. (i'm not a wolf)
  </h2>
   i try to create things i wish existed.
  <br />

@@ -2,8 +2,6 @@
  <h2>
   Hey, myself Anas.
  </h2>
-
- <img src="cat-typing.gif">
   i try to create things i wish existed.
  <br />
   <br />

@@ -1,6 +1,6 @@
 <samp>
  <h2>
-  Hey, myself Anas.
+  Hey there!
  </h2>
   I try to create things I wish existed.
  <br />

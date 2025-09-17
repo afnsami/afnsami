@@ -1,7 +1,6 @@
  <h2>
   Hey there!
  </h2>
-  I create things to be better at creating.
   
  <br>
 <br/>

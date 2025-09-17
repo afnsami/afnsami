@@ -1,7 +1,4 @@
- <h2>
-  Hey there!
- </h2>
-  
+<h2>Hey!</h2>
  <br>
 <br/>
 
